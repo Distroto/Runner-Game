@@ -1,6 +1,6 @@
 # Runner-Game
 
-Infinite runner game
+Infinite runner game , avoid the birds and snails to achieve a highscore !
 
 Controls:
 <br>
